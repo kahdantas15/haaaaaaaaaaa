@@ -1,3 +1,3 @@
 # hatunamatata
 
-- [Eu amo meu namorado ]
+- [x] Eu amo meu namorado
